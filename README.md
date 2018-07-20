@@ -9,6 +9,7 @@ https://www.kaggle.com/willkoehrsen/start-here-a-gentle-introduction
 
 特征工程
 https://www.kaggle.com/willkoehrsen/introduction-to-manual-feature-engineering
+https://www.kaggle.com/willkoehrsen/tuning-automated-feature-engineering-exploratory
 
 调参
 https://www.kaggle.com/willkoehrsen/automated-model-tuning
