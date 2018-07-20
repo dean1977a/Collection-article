@@ -12,3 +12,7 @@ https://www.kaggle.com/willkoehrsen/introduction-to-manual-feature-engineering
 
 调参
 https://www.kaggle.com/willkoehrsen/automated-model-tuning
+
+
+keras实现
+https://www.kaggle.com/astrus/entity-embedding-neural-network-keras-lb-0-748
