@@ -11,6 +11,7 @@ https://www.kaggle.com/willkoehrsen/start-here-a-gentle-introduction
 https://www.kaggle.com/willkoehrsen/introduction-to-manual-feature-engineering
 https://www.kaggle.com/willkoehrsen/tuning-automated-feature-engineering-exploratory
 https://www.kaggle.com/ashukr/exploration-of-220-columns
+https://www.kaggle.com/tsnarendran14/extensive-feature-engineering
 
 调参
 https://www.kaggle.com/willkoehrsen/automated-model-tuning
