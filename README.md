@@ -18,12 +18,14 @@ https://www.kaggle.com/ashukr/exploration-of-220-columns
 https://www.kaggle.com/tsnarendran14/extensive-feature-engineering
 
 
+
 #转换时间序列为特征
 https://machinelearningmastery.com/convert-time-series-supervised-learning-problem-python/?spm=a2c4e.11153940.blogcont174270.13.262d65ffQC9ka1
 
 调参
 https://www.kaggle.com/willkoehrsen/automated-model-tuning
 
+https://towardsdatascience.com/machine-learning-kaggle-competition-part-two-improving-e5b4d61ab4b8
 
 keras实现embedding
 https://www.kaggle.com/astrus/entity-embedding-neural-network-keras-lb-0-748
