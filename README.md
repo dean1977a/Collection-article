@@ -34,7 +34,7 @@ keras实现embedding
 https://www.kaggle.com/astrus/entity-embedding-neural-network-keras-lb-0-748
 
 keras入门
-https://www.kesci.com/home/project/5a5b691046c4ba639c6fbfa2
+https://www.kesci.com/home/project/5a5e0af01badff1e49557e47
 
 GBDT+LR融合方案实战代码（看看能不能改成GBDT+keras）
 https://www.jianshu.com/p/96173f2c2fb4
