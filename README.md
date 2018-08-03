@@ -17,6 +17,9 @@ https://www.kaggle.com/ashukr/exploration-of-220-columns
 
 https://www.kaggle.com/tsnarendran14/extensive-feature-engineering
 
+不平衡数据处理
+https://www.kaggle.com/tini9911/imbalance-in-data
+
 
 
 #转换时间序列为特征
