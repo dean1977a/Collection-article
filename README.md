@@ -33,5 +33,8 @@ https://towardsdatascience.com/machine-learning-kaggle-competition-part-two-impr
 keras实现embedding
 https://www.kaggle.com/astrus/entity-embedding-neural-network-keras-lb-0-748
 
+keras入门
+https://www.kesci.com/home/project/5a5b691046c4ba639c6fbfa2
+
 GBDT+LR融合方案实战代码（看看能不能改成GBDT+keras）
 https://www.jianshu.com/p/96173f2c2fb4
