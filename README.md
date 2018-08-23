@@ -13,7 +13,7 @@ https://www.kaggle.com/willkoehrsen/introduction-to-manual-feature-engineering
 
 https://www.kaggle.com/willkoehrsen/tuning-automated-feature-engineering-exploratory
 
-https://www.kaggle.com/ashukr/exploration-of-220-columns
+https://www.kaggle.com/wrosinski/featureaggregator-automated
 
 https://www.kaggle.com/tsnarendran14/extensive-feature-engineering
 
