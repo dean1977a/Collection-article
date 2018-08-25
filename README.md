@@ -39,6 +39,9 @@ https://www.kesci.com/home/project/5a5e0af01badff1e49557e47
 GBDT+LR融合方案实战代码（看看能不能改成GBDT+keras）
 https://www.jianshu.com/p/96173f2c2fb4
 
+Stacking Code
+https://www.kaggle.com/sibmike/blender-xgb-catb-lgb
+
 
 StackingClassifier
 https://blog.csdn.net/github_35965351/article/details/60763606
