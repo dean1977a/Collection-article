@@ -2,13 +2,10 @@
 处理缺失数据
 https://www.kaggle.com/jpmiller/patterns-of-missing-data
 
-
-数据探索
-https://www.kaggle.com/darryldias/data-exploration-dd3
-
-图表可视化教学
+数据探索&图表可视化教学
 https://www.kaggle.com/vinothan/prefect-eda-for-house-credit-default-risk
 
+基础教学
 https://www.kaggle.com/willkoehrsen/start-here-a-gentle-introduction
 
 各种函数收集
