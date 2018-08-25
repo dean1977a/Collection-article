@@ -11,6 +11,10 @@ https://www.kaggle.com/vinothan/prefect-eda-for-house-credit-default-risk
 
 https://www.kaggle.com/willkoehrsen/start-here-a-gentle-introduction
 
+各种函数收集
+https://www.kaggle.com/aantonova/collection-of-useful-functions-and-simple-baseline/notebook
+
+
 特征工程
 https://www.kaggle.com/willkoehrsen/introduction-to-manual-feature-engineering
 
