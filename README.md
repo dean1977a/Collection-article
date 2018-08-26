@@ -4,6 +4,7 @@ https://www.kaggle.com/jpmiller/patterns-of-missing-data
 
 数据探索&图表可视化教学
 https://www.kaggle.com/vinothan/prefect-eda-for-house-credit-default-risk
+https://www.kaggle.com/pavanraj159/loan-repayers-v-s-loan-defaulters-home-credit/notebook
 
 基础教学
 https://www.kaggle.com/willkoehrsen/start-here-a-gentle-introduction
