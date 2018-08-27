@@ -13,6 +13,9 @@ https://www.kaggle.com/willkoehrsen/start-here-a-gentle-introduction
 https://www.kaggle.com/aantonova/collection-of-useful-functions-and-simple-baseline/notebook
 
 
+XGB+CatB+LGB stack
+https://www.kaggle.com/sibmike/blender-xgb-catb-lgb/notebook
+
 特征工程
 https://www.kaggle.com/willkoehrsen/introduction-to-manual-feature-engineering
 
