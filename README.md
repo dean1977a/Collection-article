@@ -29,6 +29,9 @@ https://www.kaggle.com/tini9911/imbalance-in-data
 #转换时间序列为特征
 https://machinelearningmastery.com/convert-time-series-supervised-learning-problem-python/?spm=a2c4e.11153940.blogcont174270.13.262d65ffQC9ka1
 
+#时间序列样例
+https://www.kaggle.com/scirpus/time-series-example
+
 调参
 https://www.kaggle.com/willkoehrsen/automated-model-tuning
 
