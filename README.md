@@ -53,6 +53,7 @@ https://www.jianshu.com/p/96173f2c2fb4
 Stacking Code
 https://www.kaggle.com/sibmike/blender-xgb-catb-lgb
 
+https://www.kaggle.com/arthurtok/introduction-to-ensembling-stacking-in-python
 
 StackingClassifier
 https://blog.csdn.net/github_35965351/article/details/60763606
