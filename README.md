@@ -58,5 +58,3 @@ https://www.kaggle.com/arthurtok/introduction-to-ensembling-stacking-in-python
 StackingClassifier
 https://blog.csdn.net/github_35965351/article/details/60763606
 
-BoostingClassifier
-https://blog.csdn.net/github_35965351/article/details/61920943
