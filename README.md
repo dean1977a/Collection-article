@@ -9,6 +9,9 @@ https://www.kaggle.com/pavanraj159/loan-repayers-v-s-loan-defaulters-home-credit
 基础教学
 https://www.kaggle.com/willkoehrsen/start-here-a-gentle-introduction
 
+9种处理类别变量的方法
+https://www.kaggle.com/mlisovyi/9-ways-to-treat-categorical-features-updated
+
 各种函数收集
 https://www.kaggle.com/aantonova/collection-of-useful-functions-and-simple-baseline/notebook
 
