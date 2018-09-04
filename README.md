@@ -47,6 +47,10 @@ keras入门
 https://www.kesci.com/home/project/5a5e0af01badff1e49557e47
 
 
+
+K Flod LGB 输出 
+https://www.kaggle.com/mlisovyi/modular-good-fun-with-ligthgbm/code
+
 XGB+CatB+LGB stack
 https://www.kaggle.com/sibmike/blender-xgb-catb-lgb/notebook
 
