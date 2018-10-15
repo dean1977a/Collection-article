@@ -27,7 +27,8 @@ https://www.kaggle.com/tsnarendran14/extensive-feature-engineering
 不平衡数据处理
 https://www.kaggle.com/tini9911/imbalance-in-data
 
-
+文本处理
+https://www.jianshu.com/p/7f61e11d8bfc
 
 #转换时间序列为特征
 https://machinelearningmastery.com/convert-time-series-supervised-learning-problem-python/?spm=a2c4e.11153940.blogcont174270.13.262d65ffQC9ka1
