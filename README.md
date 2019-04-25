@@ -6,6 +6,8 @@ donnemartin/data-science-ipython-notebooks
 经验分享
 https://www.kaggle.com/jamesdellinger/home-credit-putting-all-the-steps-together/log
 https://www.kaggle.com/yifanxie/porto-seguro-tutorial-simple-e2e-pipeline
+https://www.kaggle.com/c/home-credit-default-risk/discussion/64625
+https://www.kaggle.com/c/home-credit-default-risk/discussion/58332
 
 
 图表很棒
