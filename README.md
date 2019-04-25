@@ -2,6 +2,15 @@
 各种代码模板
 donnemartin/data-science-ipython-notebooks
 
+
+经验分享
+https://www.kaggle.com/jamesdellinger/home-credit-putting-all-the-steps-together/log
+https://www.kaggle.com/yifanxie/porto-seguro-tutorial-simple-e2e-pipeline
+
+
+图表很棒
+https://www.kaggle.com/kabure/exploring-the-consumer-patterns-ml-pipeline
+
 处理缺失数据
 https://www.kaggle.com/jpmiller/patterns-of-missing-data
 
